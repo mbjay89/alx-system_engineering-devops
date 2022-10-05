@@ -4,3 +4,4 @@
 3-listfiles                 : a script that displays current directory contents in a long format
 4-listmorefiles             : a script that displays current directory contents, including hidden files
 5-listfilesdigitonly        : a script that displays current directory contents, in long format, with user and group IDs displayed numerically and hidden files
+6-firstdirectory            : a script that creates a directory named my_first_directory in the /tmp/ directory.
